@@ -28,5 +28,5 @@ It is designed to be highly robust for live demonstrations, featuring built-in e
 **Option 2: Local Environment**
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/hitrohitro/Vision-Transformer.git](https://github.com/hitrohitro/Vision-Transformer.git)
+   cd Vision-Transformer
